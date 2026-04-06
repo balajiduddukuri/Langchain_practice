@@ -1,4 +1,5 @@
 # sdd_fullcycle_langchain.py
+# !pip install -q langgraph langchain langchain-openai langchain_community openai langchain-core chromadb faiss-cpu pypdf tiktoken docarray
 """
 Spec-Driven Development (SDD) full cycle with LangGraph + LangChain.
 
